@@ -1,0 +1,12 @@
+triggers:
+- envs: []
+  last_enabled_at: 2024-02-05 07:39:41.634339
+  name: hw2_daily
+  pipeline_uuid: hw2
+  schedule_interval: '@daily'
+  schedule_type: time
+  settings: null
+  sla: null
+  start_time: 2024-02-05 05:00:00
+  status: active
+  variables: {}
